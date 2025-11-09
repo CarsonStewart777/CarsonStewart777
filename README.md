@@ -11,7 +11,11 @@ interested in
 • compilers and runtime systems  
 • parallel computation  
 • algorithmic optimization and mathematical methods  
+• market dynamics   
 • the philosophy of computation  
+
+
+
 
 <p align="center">
   <img src="jirachi.png" alt="Jirachi" width="140"/><br>
