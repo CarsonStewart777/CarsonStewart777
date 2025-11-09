@@ -1,6 +1,5 @@
 <p align="center">
 
-
 currently learning  
 • c++ for systems and performance  
 • gpu programming with cuda  
@@ -9,7 +8,7 @@ currently learning
 interested in  
 • compilers and runtime systems  
 • parallel computation  
-• algorithmic optimization and mathematical methods
+• algorithmic optimization and mathematical methods  
 • the philosophy of computation
 
 </p>
