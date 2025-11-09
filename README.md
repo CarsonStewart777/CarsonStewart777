@@ -1,4 +1,6 @@
 <p align="center">
+Computer Science Student
+
 
 currently learning  
 • c++ for systems and performance  
