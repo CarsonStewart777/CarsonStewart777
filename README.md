@@ -12,3 +12,8 @@ interested in
 • parallel computation  
 • algorithmic optimization and mathematical methods  
 • the philosophy of computation  
+
+<p align="center">
+  <img src="jirachi.png" alt="Jirachi" width="140"/><br>
+  <sub><i>wishing upon computation ★</i></sub>
+</p>
