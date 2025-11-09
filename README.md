@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Computer Science Student | Focused on Systems and Performance Engineering</b>
+  <b>Computer Science Student</b>
 </p>
 
 currently learning  
